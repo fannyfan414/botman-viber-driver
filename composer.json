@@ -1,5 +1,5 @@
 {
-  "name": "olobin/botman-viber-driver",
+  "name": "fannyfan414/botman-viber-driver",
   "license": "MIT",
   "description": "Viber driver for BotMan",
   "keywords": [
@@ -11,8 +11,8 @@
   "homepage": "https://github.com/TheArdent/botman-viber-driver",
   "authors": [
     {
-      "name": "Oleksii Yaryi",
-      "email": "oleksii.yaryi@gmail.com"
+      "name": "Evgenii Hripunov",
+      "email": "fannyfan414@gmail.com"
     }
   ],
   "require": {
